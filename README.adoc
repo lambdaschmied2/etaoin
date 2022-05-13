@@ -113,7 +113,7 @@ There won't be a problem on all the platforms.
 Install specific drivers you need:
 
 * Google link:{url-chromedriver}[Chrome driver]:
- ** `brew cask install chromedriver` for Mac users
+ ** `brew install --cask chromedriver` for Mac users
  ** or download compiled binaries from the link:{url-chromedriver-dl}[official site].
  ** ensure you have at least `2.28` version installed.
 `2.27` and below has a bug related to maximizing a window (see <<troubleshooting>>).
